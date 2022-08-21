@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/788f9231-4ad7-412d-a8ce-8e16bdab7e9c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/firsthostapp",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
